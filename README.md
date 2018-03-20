@@ -1,6 +1,6 @@
 # Speech-to-text
 Acoustic model development.
-Trained several different neural networks aimig to improve speech-to-text recognition.
+Trained several different neural networks aiming to improve speech-to-text recognition.
 Input is a sound file that was converted to spectogram.
 Output is a printed text of what was said in the audio file.
 
